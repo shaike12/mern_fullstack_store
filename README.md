@@ -1,29 +1,31 @@
-MERN - Products Store
-
-![image](https://github.com/user-attachments/assets/c91f478b-e3f6-4b5e-8b7e-8f31d137463c)
+<h1 align="center">MERN Crash Course 🚀</h1>
 
 
-About This Project:
 
-⚛️ Tech Stack: React.js, Node.js, Express.js, MongoDB, Chakra UI
-🔥 Build an API
-📱 Responsive UI With React.js and ChakraUI
-🐞 Error Handling
-🌐 Deployment
-🚀 And Many More Cool Features
+About This Course:
 
-Setup .env file
+-   ⚛️ Tech Stack: React.js, Node.js, Express.js, MongoDB, Chakra UI
+-   🔥 Build an API
+-   📱 Responsive UI With React.js and ChakraUI
+-   🐞 Error Handling
+-   🌐 Deployment
+-   🚀 And Many More Cool Features
 
+### Setup .env file
+
+```shell
 MONGO_URI=your_mongo_uri
-
 PORT=3000
+```
 
-Run this app locally
+### Run this app locally
 
+```shell
 npm run build
+```
 
-Start the app
+### Start the app
 
+```shell
 npm run start
-
-I'll see you in the next one! 🚀
+```
